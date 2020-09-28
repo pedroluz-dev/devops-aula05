@@ -1,5 +1,9 @@
 language: python
 python:
+<<<<<<< HEAD
   - "3.4"
+=======
+  - "3.8"
+>>>>>>> 33e36406dd53e1dbe51cda72bb47ee3fc8a895ee
 script:
   - cd src; python testes.py
